@@ -2,5 +2,5 @@
      alt="Logo"
      style="float: left; margin-right: 10px;" width="150"/>
 
-#<!-- font: verdana -->MatricesComplejas
+# <!-- font: verdana -->MatricesComplejas
 Este repositorio contendrá una librería de python la cual permitirá operaciones entre matrices complejas
