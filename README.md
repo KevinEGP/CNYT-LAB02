@@ -1,9 +1,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Escuela_Colombiana_de_Ingenier%C3%ADa_2.jpg"
      alt="Logo"
      style="float: left; margin-right: 10px;" width="150"/>
-     
- 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Escuela_Colombiana_de_Ingenier%C3%ADa_2.jpg){ width=50% }
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Escuela_Colombiana_de_Ingenier%C3%ADa_2.jpg" width="50%">.
+
 # CNYT Ciencias Naturales y Tecnologia
 > ## Libreria de Matrices Complejas
 >Programado por: Kevin Edilson Garzón Piraban
