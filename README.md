@@ -2,7 +2,7 @@
      alt="Logo"
      style="float: left; margin-right: 10px;" width="150"/>
 
-# >CNYT Ciencias Naturales y Tecnologia
+# CNYT Ciencias Naturales y Tecnologia
 ## Libreria de Matrices Complejas
 >Programado por: Kevin Edilson Garzón Piraban
 
