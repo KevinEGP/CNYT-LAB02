@@ -5,10 +5,10 @@
 >Programado por: Kevin Edilson Garzón Piraban
 
 Este repositorio contendrá una librería de python la cual permitirá operaciones entre matrices complejas   
-   * Adición de matrices complejas.  
-   * Inversa (aditiva) de una matriz compleja.  
-   * Multiplicación de un escalar por una matriz compleja.  
-   * Transpuesta de una matriz.  
+    ..* Adición de matrices complejas.  
+    ..* Inversa (aditiva) de una matriz compleja.  
+    ..* Multiplicación de un escalar por una matriz compleja.  
+    ..* Transpuesta de una matriz.  
     * Conjugada de una matriz.  
     * Adjunta (daga) de una matriz.  
     * Producto de dos matrices.  
