@@ -3,7 +3,7 @@
      style="float: left; margin-right: 10px;" width="150"/>
      
 # CNYT Ciencias Naturales y Tecnologia
-## Libreria de Matrices Complejas
+> ## Libreria de Matrices Complejas
 >Programado por: Kevin Edilson Garzón Piraban
 
 Este repositorio contendrá una librería de python la cual permitirá operaciones entre matrices complejas
