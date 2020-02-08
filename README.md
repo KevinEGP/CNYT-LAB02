@@ -19,3 +19,5 @@ Este repositorio contendrá una librería escrita en Python la cual permitirá o
  * Revisar si una matriz es unitaria.  
  * Revisar si una matriz es Hermitiana.  
  * Producto tensor de dos matrices.  
+Dentro del repositorio encontrará los siguietes documentos:
+*[lib.py](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/Test.pdf), Este archivo contiene la libreria con todas las operaciones codificadas  
