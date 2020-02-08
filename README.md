@@ -5,7 +5,7 @@
 >Programado por: Kevin Edilson Garzón Piraban
 
 Este repositorio contendrá una librería de python la cual permitirá operaciones entre matrices complejas
-  >1. Suma y Resta de matrices complejas
-  >2. Producto
-  >3. Cociente
-  >4.
+  1. Suma y Resta de matrices complejas
+  2. Producto
+  3. Cociente
+  4.
