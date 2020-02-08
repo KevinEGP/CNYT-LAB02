@@ -4,9 +4,8 @@
 
 # Libreria de Matrices Complejas
 ## CNYT Ciencias Naturales y Tecnologia  
-Programado por: Kevin Edilson Garzón Piraban
+>Programado por: Kevin Edilson Garzón Piraban
 
-Contenido:
 Este repositorio contendrá una librería de python la cual permitirá operaciones entre matrices complejas
   * Suma
   * Resta
