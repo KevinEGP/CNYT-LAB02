@@ -21,6 +21,7 @@ Este repositorio contendrá una librería escrita en Python la cual permitirá o
  * Producto tensor de dos matrices.   
  
 Dentro del repositorio encontrará los siguientes documentos:  
-  *[LibreriaMatricesComplejas.py](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/LibreriaMatricesComplejas.py), Este archivo contiene la libreria con todas las operaciones implementadas.  
-  *[Test.py](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/Test.py), Este archivo contiene las pruebas de unidad realizadas a cada una de las operaciones.  
-  *[Test.pdf](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/Test.pdf),Este documento contiene los ejemplos de pruebas utilizados en las pruebas de unidad de forma más clara.  
+  * [LibreriaMatricesComplejas.py](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/LibreriaMatricesComplejas.py), Este archivo contiene la libreria con todas las operaciones implementadas.  
+  * [Test.py](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/Test.py), Este archivo contiene las pruebas de unidad realizadas.  
+  * [Test.pdf](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/Test.pdf),Este documento contiene los ejemplos de pruebas utilizados en las pruebas de unidad de forma más clara. 
+  * [LibreriaNumerosComplejos.py](https://github.com/KevinEGP/LibreriaMatricesComplejas/blob/master/LibreriaNumerosComplejos.py), Este archivo contiene la libreria implementada en el primer proyecto, pued visualizarlo [aquí](https://github.com/KevinEGP/LibreriaNumerosComplejos).
